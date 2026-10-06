@@ -1,0 +1,1 @@
+cmd_/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/Module.symvers := sed 's/ko$$/o/' /home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/modules.order | scripts/mod/modpost -m -a  -o /home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/Module.symvers -e -i Module.symvers   -T -

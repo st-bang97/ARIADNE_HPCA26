@@ -1,0 +1,17 @@
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-drv.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-utils.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-crtc.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-encoder.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-connector.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-gem.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-fb.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-modeset.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-prime-fence.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-linux.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-helper.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nv-pci-table.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-gem-nvkms-memory.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-gem-user-memory.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-gem-dma-buf.o
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm/nvidia-drm-format.o

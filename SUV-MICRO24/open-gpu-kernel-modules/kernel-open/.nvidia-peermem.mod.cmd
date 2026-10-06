@@ -1,0 +1,1 @@
+cmd_/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-peermem.mod := printf '%s\n'   nvidia-peermem/nvidia-peermem.o | awk '!x[$$0]++ { print("/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/"$$0) }' > /home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-peermem.mod

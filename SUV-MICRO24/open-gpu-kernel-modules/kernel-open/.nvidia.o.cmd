@@ -1,0 +1,1 @@
+cmd_/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia.o := ld -m elf_x86_64 -z noexecstack --no-warn-rwx-segments   -r -o /home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia.o @/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia.mod 

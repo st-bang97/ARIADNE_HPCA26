@@ -1,0 +1,4 @@
+4GB footprint
+
+RODINIA : nw, pathfiner
+POLYBENCH : ATAX, BICG, MVT, GESUMMV, GEMM, 2MM, 2DCONV,

@@ -1,0 +1,4 @@
+export PATH=/home/shin/SUV-MICRO24/llvm/build/bin/:$PATH
+export SUVHOME=/home/shin/SUV-MICRO24/
+./GEMM.exe
+

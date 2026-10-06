@@ -1,0 +1,1 @@
+cmd_/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia/nv-kernel.o := ln -sf /home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia/nv-kernel.o_binary /home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia/nv-kernel.o

@@ -1,0 +1,5 @@
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia.ko
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-uvm.ko
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-modeset.ko
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-drm.ko
+/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-peermem.ko

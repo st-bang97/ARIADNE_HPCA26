@@ -1,0 +1,19 @@
+_out/Linux_x86_64/nvt_dsc_pps.o: \
+ ../common/sdk/nvidia/inc/cpuopsys.h \
+ ../common/modeset/timing/nvt_dsc_pps.h \
+ ../common/sdk/nvidia/inc/nvtypes.h ../common/sdk/nvidia/inc/cpuopsys.h \
+ ../common/modeset/timing/nvtiming.h ../common/sdk/nvidia/inc/nvmisc.h \
+ ../common/sdk/nvidia/inc/nvtypes.h \
+ ../common/inc/displayport/displayport.h ../common/inc/displayport/dpcd.h \
+ ../common/inc/displayport/dpcd14.h ../common/inc/displayport/dpcd20.h
+../common/sdk/nvidia/inc/cpuopsys.h:
+../common/modeset/timing/nvt_dsc_pps.h:
+../common/sdk/nvidia/inc/nvtypes.h:
+../common/sdk/nvidia/inc/cpuopsys.h:
+../common/modeset/timing/nvtiming.h:
+../common/sdk/nvidia/inc/nvmisc.h:
+../common/sdk/nvidia/inc/nvtypes.h:
+../common/inc/displayport/displayport.h:
+../common/inc/displayport/dpcd.h:
+../common/inc/displayport/dpcd14.h:
+../common/inc/displayport/dpcd20.h:

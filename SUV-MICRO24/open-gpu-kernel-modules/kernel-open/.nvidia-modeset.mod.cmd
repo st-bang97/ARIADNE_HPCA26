@@ -1,0 +1,1 @@
+cmd_/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-modeset.mod := printf '%s\n'   nvidia-modeset/nvidia-modeset-linux.o nvidia-modeset/nv-kthread-q.o nvidia-modeset/nv-modeset-kernel.o | awk '!x[$$0]++ { print("/home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/"$$0) }' > /home/shin/SUV-MICRO24/open-gpu-kernel-modules/kernel-open/nvidia-modeset.mod

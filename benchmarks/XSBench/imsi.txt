@@ -1,0 +1,41 @@
+                                  INPUT SUMMARY
+================================================================================
+Simulation Method:            Event Based
+Grid Type:                    Nuclide Grid
+Materials:                    12
+H-M Benchmark Size:           large
+Total Nuclides:               355
+Gridpoints (per Nuclide):     248,847
+Total XS Lookups:             170,000
+Est. Memory Usage (MB):       4,044
+Binary File Mode:             Off
+================================================================================
+                         INITIALIZATION - DO NOT PROFILE
+================================================================================
+Intializing nuclide grids...
+Intializing material data...
+Intialization complete. Allocated 4044 MB of data.
+
+================================================================================
+                                   SIMULATION
+================================================================================
+Beginning event based simulation...
+Allocating an additional 0.6 MB of memory for verification arrays...
+Running on: NVIDIA RTX A5000
+Initializing device buffers and JIT compiling kernel...
+61366429496726142949671954294967195122429496727242949671964442949672561211210342949672244294967295
+Simulation complete.
+================================================================================
+                                     RESULTS
+================================================================================
+Total Time Statistics (Device Init / JIT Compilation + Simulation Kernel)
+Runtime:               5.259 seconds
+Lookups:               170,000
+Lookups/s:             32,323
+Simulation Kernel Only Statistics
+Average kernel execution time: 1.244 seconds
+
+GPU Runtime: 1.244485
+Lookups/s:             136,602
+Verification checksum: 509172 (WARNING - INAVALID CHECKSUM!)
+================================================================================
